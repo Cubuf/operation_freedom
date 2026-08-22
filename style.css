@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+.contenedor {
+    background-color: chocolate;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
